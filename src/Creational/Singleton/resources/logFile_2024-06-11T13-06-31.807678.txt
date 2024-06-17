@@ -1,0 +1,7 @@
+Application started
+method1 is called
+method1 is completed
+Calling addNumbers method
+addNumbers method is called with values a = 10 and b = 20
+Result 30 received from addNumbers method
+Application completed
