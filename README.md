@@ -24,8 +24,3 @@ This repository implements various design patterns in Java.
 
 * Driver classes (e.g., `Main.java`) demonstrate patterns.
 * Run these classes to see patterns in action.
-
-### Learning More
-
-* Code comments explain implementations.
-* Explore online resources & books for deeper understanding.
