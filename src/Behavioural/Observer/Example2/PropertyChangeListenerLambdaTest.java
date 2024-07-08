@@ -1,4 +1,4 @@
-package Behavioural.Observer;
+package Behavioural.Observer.Example2;
 
 import java.beans.*;
 import java.awt.*;
